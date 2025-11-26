@@ -1,5 +1,7 @@
 # PlayAces - Smart Fun for Kids!
 
+**Last Updated: November 26, 2025**
+
 **PlayAces** ("we," "our," or "us") is committed to protecting the privacy of our users ("you" or "your"), with a special focus on the safety of children. This Privacy Policy explains how our application handles information to ensure a secure and fun learning experience for families.
 
 ## 1. Information We Collect and Store
@@ -7,7 +9,7 @@
 ### A. Personal Information (Stored Locally)
 PlayAces offers optional authentication via **Google Sign-In** and **Apple Sign-In**. If you choose to sign in, the App retrieves basic profile information (Name, Email, and Profile Photo) solely to personalize the experience (e.g., displaying your name on the Home Screen).
 * **Storage Method:** This information is stored **locally on your device** using secure device storage.
-* **No External Transfer:** We **do not** upload, sync, or store your personal information on external servers. If you delete the App, this data is removed from the device.
+* **No External Transfer:** We **do not** upload, sync, or store your personal information on external servers.
 
 ### B. Device Permissions & Local Data
 
@@ -25,13 +27,18 @@ The App may request or list permissions related to the microphone (`android.perm
 PlayAces is specifically designed for children ages 2-8. We strictly adhere to the Children's Online Privacy Protection Act (COPPA) and GDPR-K standards:
 * **No Third-Party Advertising:** We do not display behavioral advertising or use third-party ad networks.
 * **No Data Sharing:** We do not sell, trade, or transfer Personally Identifiable Information (PII) to outside parties.
+* **No Third-Party Analytics:** We do not use third-party analytics services (such as Google Analytics or Firebase) to track user behavior.
 * **Safe Environment:** The App is designed to keep children within a safe, closed environment without external links to websites or social media.
 
-## 3. Data Retention and Deletion
-Since PlayAces is a **local-first** application, you retain full control over your data.
+## 3. Account Deletion & Data Retention
+You retain full control over your data. PlayAces provides a straightforward way to manage and delete your information directly within the application.
 
-* **Data Retention:** User preferences (Age, Boring Mode) and Profile data are retained on your device only as long as the App is installed.
-* **Data Deletion:** To delete all data associated with the App, you can simply **uninstall the application** or sign out via the Settings menu. We do not hold a copy of your data on any external servers.
+* **In-App Account Deletion:** You may delete your account at any time by navigating to your **Profile** and selecting **"Delete Account"**.
+    * This action immediately and permanently wipes all personal data (Name, Email, Photo, Age preferences) from the device.
+    * It disconnects the App from your Google or Apple account.
+    * This process is irreversible and restores the App to a "fresh install" state.
+* **Uninstalling the App:** Since all data is stored locally, uninstalling the application will also permanently delete all user data and preferences associated with PlayAces from your device.
+* **Data Retention:** User preferences and Profile data are retained on your device only as long as the App is installed or until you choose to delete your account. We do not hold a copy of your data on any external servers.
 
 ## 4. Data Security
 We implement robust security measures to protect your information:
