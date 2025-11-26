@@ -1,6 +1,6 @@
 # PlayAces - Smart Fun for Kids!
 
-**Last Updated: November 26, 2025**
+**Last Updated: November 25, 2025**
 
 **PlayAces** ("we," "our," or "us") is committed to protecting the privacy of our users ("you" or "your"), with a special focus on the safety of children. This Privacy Policy explains how our application handles information to ensure a secure and fun learning experience for families.
 
